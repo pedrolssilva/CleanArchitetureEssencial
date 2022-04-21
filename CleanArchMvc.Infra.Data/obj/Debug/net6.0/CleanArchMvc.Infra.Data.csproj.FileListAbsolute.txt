@@ -1,0 +1,15 @@
+D:\GitHubPedro\udemy\clean-architeture-essential-course\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net6.0\CleanArchMvc.Infra.Data.deps.json
+D:\GitHubPedro\udemy\clean-architeture-essential-course\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net6.0\CleanArchMvc.Infra.Data.dll
+D:\GitHubPedro\udemy\clean-architeture-essential-course\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net6.0\CleanArchMvc.Infra.Data.pdb
+D:\GitHubPedro\udemy\clean-architeture-essential-course\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net6.0\CleanArchMvc.Domain.dll
+D:\GitHubPedro\udemy\clean-architeture-essential-course\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net6.0\CleanArchMvc.Domain.pdb
+D:\GitHubPedro\udemy\clean-architeture-essential-course\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\CleanArchMvc.Infra.Data.csproj.AssemblyReference.cache
+D:\GitHubPedro\udemy\clean-architeture-essential-course\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\CleanArchMvc.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubPedro\udemy\clean-architeture-essential-course\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\CleanArchMvc.Infra.Data.AssemblyInfoInputs.cache
+D:\GitHubPedro\udemy\clean-architeture-essential-course\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\CleanArchMvc.Infra.Data.AssemblyInfo.cs
+D:\GitHubPedro\udemy\clean-architeture-essential-course\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\CleanArchMvc.Infra.Data.csproj.CoreCompileInputs.cache
+D:\GitHubPedro\udemy\clean-architeture-essential-course\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\CleanArchMvc.Infra.Data.csproj.CopyComplete
+D:\GitHubPedro\udemy\clean-architeture-essential-course\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\CleanArchMvc.Infra.Data.dll
+D:\GitHubPedro\udemy\clean-architeture-essential-course\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\refint\CleanArchMvc.Infra.Data.dll
+D:\GitHubPedro\udemy\clean-architeture-essential-course\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\CleanArchMvc.Infra.Data.pdb
+D:\GitHubPedro\udemy\clean-architeture-essential-course\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\ref\CleanArchMvc.Infra.Data.dll
