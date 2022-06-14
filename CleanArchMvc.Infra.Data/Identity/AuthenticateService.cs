@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CleanArchMvc.Infra.Data.Identity
 {
-    internal class AuthenticateService : IAuthenticate
+    public class AuthenticateService : IAuthenticate
     {
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly SignInManager<ApplicationUser> _signInManager;
