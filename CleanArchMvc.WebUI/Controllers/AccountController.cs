@@ -17,8 +17,8 @@ namespace CleanArchMvc.WebUI.Controllers
         {
             return View(new LoginViewModel
             {
-                ReturnUrl = returnUrl
-            });
+                ReturnUrl = returnUrl ?? "/"
+            }); 
         }
 
         [HttpPost]

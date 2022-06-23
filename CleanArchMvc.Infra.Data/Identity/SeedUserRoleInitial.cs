@@ -62,7 +62,7 @@ namespace CleanArchMvc.Infra.Data.Identity
         
         public void SeedRoles()
         {
-            if (_roleManager.RoleExistsAsync("User").Result)
+            if (!_roleManager.RoleExistsAsync("User").Result)
             {
                 IdentityRole role = new IdentityRole();
                 role.Name = "User";
@@ -71,7 +71,7 @@ namespace CleanArchMvc.Infra.Data.Identity
                 IdentityResult roleResult = _roleManager.CreateAsync(role).Result;
             }
 
-            if (_roleManager.RoleExistsAsync("Admin").Result)
+            if (!_roleManager.RoleExistsAsync("Admin").Result)
             {
                 IdentityRole role = new IdentityRole();
                 role.Name = "Admin";
