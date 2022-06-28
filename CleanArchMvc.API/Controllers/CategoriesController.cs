@@ -71,6 +71,8 @@ namespace CleanArchMvc.API.Controllers
             {
                 return NotFound("Category not found");
             }
+            await _categoryService.Remove(id);
+            return Ok(category);
         }
 
     }
